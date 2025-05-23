@@ -1,7 +1,7 @@
 # Práctica 2 - Uso de una herramienta para desplegar un modelo de inteligencia artificial
 # Autor: Guillermo Escobar Bonilla
 
-Este proyecto corresponde a la **Práctica 2** del módulo, en la cual se debía construir un modelo de Machine Learning, registrar su ciclo de vida con MLFlow y desplegarlo mediante una aplicación web con Flask. La rúbrica exigía cumplir con criterios específicos como la gestión del dataset, uso del modelo, registro del experimento y funcionalidad web.
+Este proyecto corresponde a la **Práctica 2** de la materia de Herramientas de IA de la UTPL, en la cual se debía construir un modelo de Machine Learning, registrar su ciclo de vida con MLFlow y desplegarlo mediante una aplicación web con Flask. La rúbrica exigía cumplir con criterios específicos como la gestión del dataset, uso del modelo, registro del experimento y funcionalidad web.
 
 ## Objetivos Cumplidos
 
