@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/guillermoescobar/Desktop/practica2_HerramientasIA/mlruns/822191825153417779/044290a586674d7bb3893a0014c0af46/artifacts
+end_time: 1747963172715
+entry_point_name: ''
+experiment_id: '822191825153417779'
+lifecycle_stage: active
+run_id: 044290a586674d7bb3893a0014c0af46
+run_name: resilient-shrew-886
+run_uuid: 044290a586674d7bb3893a0014c0af46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747963172163
+status: 3
+tags: []
+user_id: guillermoescobar
